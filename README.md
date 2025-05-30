@@ -1,4 +1,2 @@
 This is the companion repository for the [Nx Workspaces course on YouTube](https://www.youtube.com/playlist?list=PLakNactNC1dH38AfqmwabvOszDmKriGco) and the [Advanced Nx Workspaces course on NxPlaybook.com](https://nxplaybook.com/p/advanced-nx-workspaces)
-some changes for nx run
-another change
-another change for trigger
+trying it again 
